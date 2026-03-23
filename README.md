@@ -188,6 +188,10 @@ dotnet test --filter "RandomNumberGeneratorTests"
 dotnet test --filter "GenerateUniqueRandomNumbers_Generate10000Numbers_Success"
 ```
 
+##TODO
+Add build pipeline
+
+
 ## License
 
 MIT License - See LICENSE file
